@@ -253,4 +253,5 @@ general_labels_map = {'HEAD_TOP': 'ARIEL',
                       'head_l_post' : 'LBHD',
                       'r_hand' : 'RFIN',
                       'l_hand' : 'LFIN',
+                      'trunk_xyph' : 'STRN'
                       }
