@@ -256,4 +256,6 @@ general_labels_map = {'HEAD_TOP': 'ARIEL',
                       'trunk_xyph' : 'STRN',
                       'trunk_r_acro' : 'RSHO',
                       'trunk_l_acro' : 'LSHO',
+                      'pelvis_r_asis' : 'RFWT',
+                      'pelvis_l_asis' : 'LFWT',
                       }
