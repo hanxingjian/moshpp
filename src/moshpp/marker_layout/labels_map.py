@@ -253,5 +253,7 @@ general_labels_map = {'HEAD_TOP': 'ARIEL',
                       'head_l_post' : 'LBHD',
                       'r_hand' : 'RFIN',
                       'l_hand' : 'LFIN',
-                      'trunk_xyph' : 'STRN'
+                      'trunk_xyph' : 'STRN',
+                      'trunk_r_acro' : 'RSHO',
+                      'trunk_l_acro' : 'LSHO',
                       }
